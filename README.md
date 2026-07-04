@@ -1,36 +1,22 @@
-### 🌲 一棵海树 · jaydenou
+# Hi 👋, I'm JaydenOu
 
-**designer / swift / infj** ｜ 深圳 · 1999
+### A budding Html developer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydenou&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&hide_title=true" alt="stats" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydenou&layout=compact&bg_color=0d1117&text_color=c9d1d9&hide_border=true&langs_count=4" alt="top langs" height="140"/>
+- 🌱 I'm currently learning **Swift
+Python
+IELTS**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/jaydenou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jaydenou" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/octopus_ou/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/octopus_ou/?hl=en" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/JinhaiOu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/JinhaiOu" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/objectivec" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=apple" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a></p>
 
-**此刻**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydenou&show_icons=true&locale=en&layout=compact" alt="jaydenou" /></p>
 
-- 🧑‍💻 学 Swift · 第一个 iOS 项目
-- 📖 备考雅思 · WHV 计划中
-- ✍️ 公众号「一棵海树」
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydenou&show_icons=true&locale=en" alt="jaydenou" /></p>
 
----
-
-**常用**
-
-| Design | Code | System |
-|--------|------|--------|
-| Rhino · Blender · Figma | Swift · Python · JS | macOS · iOS |
-
----
-
-**联系**
-
-[✉ jaydenou@outlook.com](mailto:jaydenou@outlook.com) · [GitHub](https://github.com/jaydenou)
-
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat)
-![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white&style=flat)
